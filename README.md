@@ -13,9 +13,9 @@ Apa fungsi dari Nmap? Nmap uses raw IP packets in novel ways to determine what h
 
 2. Port dan layanan apa yang terbuka serta software yang digunakan ? 21/tcp open ftp software vsftpd, 22/tcp open ssh software ssh 8.2 , 23/tcp open telnet software linux.
 
-3.Berapa alamat ip dan subnet mask dari pc host? 10.0.2.15/24 dan 10.0.2.255
+3. Berapa alamat ip dan subnet mask dari pc host? 10.0.2.15/24 dan 10.0.2.255
 
 4. Berapa jumlah host yang terdeteksi? 1 host up
 
-5.Alamat IP server adalah 45.33.32.156 dan sistem operasi yang digunakan oleh server adalah linux
+5. Alamat IP server adalah 45.33.32.156 dan sistem operasi yang digunakan oleh server adalah linux
 
